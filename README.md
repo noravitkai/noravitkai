@@ -41,16 +41,20 @@ const noraVitkai = {
 
 Here are some of my recent projects:
 
+- ##### Website for Több Mint Tüzép 
+  A dynamic online magazine with integrated sales interfaces, initially built with <code>WordPress</code> and later transitioned to <code>Next.js</code> with <code>WordPress REST API</code>.  
+  🔗 [Read more](https://noravitkai.com/projects/tobb-mint-tuzep-website)  
+
 - ##### Website for Fiatalok Konferenciája 
-  A modern, minimalist website for an annual academic conference, built with **Tailwind CSS** and **Vanilla JavaScript** on **WordPress**.  
+  A modern, minimalist website for an annual academic conference, built with <code>Tailwind CSS</code> and <code>Vanilla JavaScript</code> on <code>WordPress</code>.  
   🔗 [Read more](https://noravitkai.com/projects/fiatalok-konferenciaja-website)  
 
 - ##### Website for HUFBAU Piedl
-  A promotional website as part of a marketing campaign for a building materials supplier, built with **Vue.js** and **Tailwind CSS**.  
+  A promotional website as part of a marketing campaign for a building materials supplier, built with <code>Vue.js</code> and <code>Tailwind CSS</code>.  
   🔗 [Read more](https://noravitkai.com/projects/hufbau-otthonfelujitas-website)  
 
 - ##### Website for GG Szépségstúdió
-  A stylish website for a beauty salon showcasing its services, built with **Tailwind CSS** and **Vanilla JavaScript** on **WordPress**.  
+  A stylish website for a beauty salon showcasing its services, built with <code>Tailwind CSS</code> and <code>Vanilla JavaScript</code> on <code>WordPress</code>.  
   🔗 [Read more](https://noravitkai.com/projects/gg-szepsegstudio-website)
 
 🔎 **Want to see more of my work?** 🔗 [Discover my complete portfolio!](https://noravitkai.com/)
