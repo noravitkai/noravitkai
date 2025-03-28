@@ -20,42 +20,23 @@ const noraVitkai = {
 
 #### 🚀 Skills
 
-##### Frontend Technologies
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Tailwind CSS</code> <code>Vue.js</code>
+**Frontend Technologies:** `HTML` `CSS` `JavaScript` `Tailwind CSS` `Vue.js`  
+**Databases:** `MySQL` `Firebase`  
+**Content Management Systems:** `WordPress`  
+**Project Management:** `Kanban` `Trello` `Scrum`  
+**Currently Learning:** `PHP` `REST API` `MongoDB` `CI/CD` `TypeScript` `React` `Next.js`
 
-##### Databases
-<code>MySQL</code> <code>Firebase</code>
-
-##### Content Management Systems 
-<code>WordPress</code>
-
-##### Project Management
-<code>Kanban</code> <code>Trello</code> <code>Scrum</code>
-
-##### Currently Learning
-<code>PHP</code> <code>REST API</code> <code>MongoDB</code> <code>TypeScript</code> <code>CI/CD</code>
-
-#### 📂 Projects  
-
-> My journey began with a passion for storytelling, leading me to pursue degrees in both Humanities and Design. Linguistics taught me structure, design taught me visuals—now, I bridge them to build intuitive, seamless web experiences.
+#### 📂 Projects
 
 Here are some of my recent projects:
-
-- ##### Website for Több Mint Tüzép 
-  A dynamic online magazine with integrated sales interfaces, initially built with <code>WordPress</code> and later transitioned to <code>Next.js</code> with <code>WordPress REST API</code>.  
-  🔗 [Read more](https://noravitkai.com/projects/tobb-mint-tuzep-website)  
-
-- ##### Website for Fiatalok Konferenciája 
-  A modern, minimalist website for an annual academic conference, built with <code>Tailwind CSS</code> and <code>Vanilla JavaScript</code> on <code>WordPress</code>.  
-  🔗 [Read more](https://noravitkai.com/projects/fiatalok-konferenciaja-website)  
-
-- ##### Website for HUFBAU Piedl
-  A promotional website as part of a marketing campaign for a building materials supplier, built with <code>Vue.js</code> and <code>Tailwind CSS</code>.  
-  🔗 [Read more](https://noravitkai.com/projects/hufbau-otthonfelujitas-website)  
-
-- ##### Website for GG Szépségstúdió
-  A stylish website for a beauty salon showcasing its services, built with <code>Tailwind CSS</code> and <code>Vanilla JavaScript</code> on <code>WordPress</code>.  
-  🔗 [Read more](https://noravitkai.com/projects/gg-szepsegstudio-website)
+ 
+🔗 [Több Mint Tüzép](https://noravitkai.com/projects/tobb-mint-tuzep-website) – <code>Next.js</code>, <code>WordPress REST API</code>
+ 
+🔗 [Fiatalok Konferenciája](https://noravitkai.com/projects/fiatalok-konferenciaja-website) – <code>Tailwind CSS</code>, <code>Vanilla JavaScript</code>, <code>WordPress</code>
+ 
+🔗 [HUFBAU Piedl](https://noravitkai.com/projects/hufbau-otthonfelujitas-website) – <code>Vue.js</code>, <code>Tailwind CSS</code>
+ 
+🔗 [GG Szépségstúdió](https://noravitkai.com/projects/gg-szepsegstudio-website) – <code>Tailwind CSS</code>, <code>Vanilla JavaScript</code>, <code>WordPress</code>
 
 🔎 **Want to see more of my work?** 🔗 [Discover my complete portfolio!](https://noravitkai.com/)
 
