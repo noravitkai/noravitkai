@@ -46,7 +46,7 @@ Here are some of my recent projects:
  
 🔗 [Fiatalok Konferenciája](https://noravitkai.vercel.app/projects/fiatalok-konferenciaja-website) – <code>Tailwind CSS</code>, <code>Vanilla JavaScript</code>, <code>WordPress</code>
  
-🔗 [HUFBAU Piedl]([HUFBAU Piedl](https://noravitkai.vercel.app/projects/hufbau-otthonfelujitas-website) – <code>Vue.js</code>, <code>Tailwind CSS</code>) – <code>Vue.js</code>, <code>Tailwind CSS</code>
+🔗 [HUFBAU Piedl](https://noravitkai.vercel.app/projects/hufbau-otthonfelujitas-website) – <code>Vue.js</code>, <code>Tailwind CSS</code>) – <code>Vue.js</code>, <code>Tailwind CSS</code>
  
 🔗 [GG Szépségstúdió](https://noravitkai.vercel.app/projects/gg-szepsegstudio-website) – <code>Tailwind CSS</code>, <code>Vanilla JavaScript</code>, <code>WordPress</code>
 
