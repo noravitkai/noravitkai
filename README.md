@@ -2,7 +2,7 @@
 
 ### Hello there, I'm Nóra Vitkai.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&pause=200&color=E7A20C&width=435&lines=Humanities+grad+turned+multimedia+designer.;Diving+deeper+into+web+development.;Always+learning%2C+always+curious.+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&pause=200&color=6D8358&width=435&lines=Humanities+grad+turned+multimedia+designer.;Diving+deeper+into+web+development.;Always+learning%2C+always+curious.+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 #### 🏷️ A Brief Intro  
 
@@ -13,7 +13,7 @@ const noraVitkai = {
   languages: ["Hungarian", "English"],
   degrees: [
     "BA in Web Development (2026)",
-    "AP in Multimedia Design (2024)",
+    "AP in Multimedia Design and Communication (2024)",
     "MA in Hungarian Literary & Cultural Studies (2021)"
   ],
   competencies: [
@@ -22,35 +22,25 @@ const noraVitkai = {
     "Copywriting",
     "SEO"
   ],
-  hobbies: ["Reading", "Hiking"]
+  hobbies: ["Reading", "Hiking", "Board games"]
 };
 ```
 
 #### 🚀 Skills
 
-**Frontend Technologies:** `HTML` `CSS` `JavaScript` `Tailwind CSS` `Vue.js` `React` `Next.js` `TypeScript`
+**Frontend Technologies:** `HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Vue.js` `Tailwind CSS`
 
-**Databases:** `MySQL` `Firebase` `MongoDB` `Turso`
+**Databases & Services:** `MySQL` `MongoDB` `Firebase` `Turso`
 
 **Backend & APIs:** `PHP` `REST APIs`
 
-**Content Management Systems:** `WordPress` `Payload CMS`
+**Content Management:** `WordPress` `Payload CMS`
 
-**Project Management:** `Kanban` `Trello` `Scrum`
+**Project Management:** `Scrum` `Kanban` `Jira`
 
 #### 📂 Projects
 
-Here are some of my recent projects:
- 
-🔗 [Több Mint Tüzép](https://noravitkai.vercel.app/projects/tobb-mint-tuzep-website) – <code>Next.js</code>, <code>WordPress REST API</code>
- 
-🔗 [Fiatalok Konferenciája](https://noravitkai.vercel.app/projects/fiatalok-konferenciaja-website) – <code>Tailwind CSS</code>, <code>Vanilla JavaScript</code>, <code>WordPress</code>
- 
-🔗 [HUFBAU Piedl](https://noravitkai.vercel.app/projects/hufbau-otthonfelujitas-website) – <code>Vue.js</code>, <code>Tailwind CSS</code>) – <code>Vue.js</code>, <code>Tailwind CSS</code>
- 
-🔗 [GG Szépségstúdió](https://noravitkai.vercel.app/projects/gg-szepsegstudio-website) – <code>Tailwind CSS</code>, <code>Vanilla JavaScript</code>, <code>WordPress</code>
-
-🔎 **Want to see more of my work?** 🔗 [Discover my complete portfolio!](https://noravitkai.vercel.app/)
+🔗 [Discover my complete portfolio!](https://noravitkai.vercel.app/)
 
 #### 💡 Fun Facts
 
